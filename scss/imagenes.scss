@@ -1,5 +1,9 @@
 .carousel{padding: 40px;}
 .imgSec{height: 400px; width: 80%; padding-top: 30px;}
 
-.imgSec{height: 400px;}
-.imgSec:hover{height: 395px;}
+.imgSec{
+    height: 400px;
+    &:hover{
+        height: 395px;
+    }
+}

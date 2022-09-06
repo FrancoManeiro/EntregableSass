@@ -1,13 +1,32 @@
 $bgPrimario: lightblue;
+$bgSecun: blue;
+$colorPrimario: white;
+$colorSecun: black;
 
-.mainProd{color: white;}
-.mainProd:hover{color: black;}
+.mainProd{
+    color: $colorPrimario;
+    &:hover{
+        color: $colorSecun;
+    }
+}
 
-h5{color: black;}
-h5:hover{color: white;}
+h5{
+    color: $colorSecun;
+    &:hover{
+        color: $colorPrimario;
+    }
+}
 
-.animNav{color: black;}
-.animNav:hover{color: blue;}
+.animNav{
+    color: $colorSecun;
+    &:hover{
+        color: $bgSecun;
+    }
+}
 
-li{color: black;}
-li:hover{color: white;}
+li{
+    color: $colorSecun;
+    &:hover{
+        color: $colorPrimario;
+    }
+}

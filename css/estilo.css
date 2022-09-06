@@ -1,26 +1,22 @@
 .mainProd {
   color: white; }
-
-.mainProd:hover {
-  color: black; }
+  .mainProd:hover {
+    color: black; }
 
 h5 {
   color: black; }
-
-h5:hover {
-  color: white; }
+  h5:hover {
+    color: white; }
 
 .animNav {
   color: black; }
-
-.animNav:hover {
-  color: blue; }
+  .animNav:hover {
+    color: blue; }
 
 li {
   color: black; }
-
-li:hover {
-  color: white; }
+  li:hover {
+    color: white; }
 
 header {
   background-color: lightblue; }
@@ -48,9 +44,8 @@ h1 {
 
 .imgSec {
   height: 400px; }
-
-.imgSec:hover {
-  height: 395px; }
+  .imgSec:hover {
+    height: 395px; }
 
 main {
   padding-bottom: 30px; }
