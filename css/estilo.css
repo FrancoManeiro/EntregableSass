@@ -1,0 +1,56 @@
+.mainProd {
+  color: white; }
+
+.mainProd:hover {
+  color: black; }
+
+h5 {
+  color: black; }
+
+h5:hover {
+  color: white; }
+
+.animNav {
+  color: black; }
+
+.animNav:hover {
+  color: blue; }
+
+li {
+  color: black; }
+
+li:hover {
+  color: white; }
+
+header {
+  background-color: lightblue; }
+  header div a img {
+    height: 190px;
+    padding: 10px; }
+
+footer {
+  background-color: lightblue;
+  padding-top: 50px; }
+
+.imgFoo {
+  height: 30px; }
+
+h1 {
+  padding: 20px; }
+
+.carousel {
+  padding: 40px; }
+
+.imgSec {
+  height: 400px;
+  width: 80%;
+  padding-top: 30px; }
+
+.imgSec {
+  height: 400px; }
+
+.imgSec:hover {
+  height: 395px; }
+
+main {
+  padding-bottom: 30px; }
